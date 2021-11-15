@@ -1,14 +1,10 @@
 body{
-    background-color: darkgoldenrod;
+    background-color: #c1f1fa;
   }
   .profile-area{
     padding: 70px 0;
   }
-  .card{
-    box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
-    overflow: hidden;
-    border-radius: 15px;
-  }
+ 
   .img1 img{
     height: 200px;
     width: 100%;
@@ -25,7 +21,7 @@ body{
     height: 140px;
     border-radius: 50%;
     border: 7px solid #fff;
-    margin-top: -80px;
+    margin-top: -15px;
   }
   .card:hover.img2 img{
     border-color: darkcyan;
